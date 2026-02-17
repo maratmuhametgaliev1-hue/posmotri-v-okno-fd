@@ -264,8 +264,6 @@ ol {
   outline-offset: 1px;
 }
 
-
-
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
