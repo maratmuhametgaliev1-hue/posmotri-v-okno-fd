@@ -52,7 +52,7 @@ ol {
 
 .content {
   display: flex;
-  margin: auto;
+  justify-content: center;
   align-items: end;
   width: 1140px;
   gap: 30px;
@@ -72,10 +72,6 @@ ol {
   height: 298px;
   overflow-y: auto;
   gap: 30px;
-}
-
-.result {
-
 }
 
 .content__details {
@@ -123,7 +119,6 @@ ol {
   font-size: 18px;
   font-weight: 400;
   color:#fff;
-  margin-bottom: 5px;
 }
 
 .title {
