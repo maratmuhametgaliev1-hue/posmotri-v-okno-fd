@@ -1,1 +1,1 @@
-https://github.com/maratmuhametgaliev1-hue/posmotri-v-okno-fd#
+https://github.com/maratmuhametgaliev1-hue/posmotri-v-okno-fd
